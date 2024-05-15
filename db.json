@@ -1,0 +1,53 @@
+{
+  "empDetails": [
+    {
+      "id": "58c4",
+      "empID": "Luminar123",
+      "userName": "Luminar Technolab kochi",
+      "email": "Luminar@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "9c5b",
+      "empID": "Sonia123",
+      "userName": "Sonia George",
+      "email": "sonia@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "7cd1",
+      "empID": "Jessy14",
+      "userName": "Jessy Sebastian",
+      "email": "jessy@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "b9a1",
+      "empID": "Monica123",
+      "userName": "Monica",
+      "email": "monica@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "d168",
+      "empID": "graceson101",
+      "userName": "graceson j",
+      "email": "graceson@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "e042",
+      "empID": "Joe232",
+      "userName": "Joe",
+      "email": "joe@gail.com",
+      "status": "active"
+    },
+    {
+      "id": "f0a0",
+      "empID": "honet121",
+      "userName": "Honey Sebastian",
+      "email": "honey@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
